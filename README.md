@@ -42,5 +42,7 @@ Desarrollado como ejercicio práctico de estructuras de datos y programación or
 ---
 
 ## 🧑‍💻 Autor
-
 - Juan Esteban Cayon M — [@jecayonm8](https://github.com/jecayonm8)
+Contribuidores:
+- 👨‍💻 Bryan Ramirez - @postmortem04
+- 👨‍💻 Juan Andres Perez - @PereZzZzZ580
